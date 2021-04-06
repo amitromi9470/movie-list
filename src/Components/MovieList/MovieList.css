@@ -1,0 +1,19 @@
+.movieimages{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.movie{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+}
+
+.favButton{
+    padding: 8px;
+}
